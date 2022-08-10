@@ -65,12 +65,11 @@ The following machine learning models are implemented:
 10. LGBM 
 
 ![modelcomparion.png](assets/modelcomparison.png)
-Evaluating all the models, we see the random forrest classifier get the highest score for accuracy at 96% and therefore is selected as the best classifier. 
-
+Evaluating all the models, we see the random forrest classifier has the best performance metrics (precision, accuracy, recall), and is therfore selected for the model.
 ## Licence 
 MIT License
 
-Copyright (c) 2022 Stern Semasuka
+Copyright (c) 2022 Zain Khan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
